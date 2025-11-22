@@ -1,3 +1,57 @@
-# Food_ordering_web
+# 🍽 Foodie Delight - Food Ordering Website
 
-![WhatsApp Image 2024-07-31 at 12 14 34_7f6a556a](https://github.com/user-attachments/assets/06f6422f-2fa0-4b6f-a6b1-ff1fce770392)
+This is a simple food ordering website made using HTML, CSS, and JavaScript.
+
+Users can see food items, add them to a cart, increase/decrease quantity, and see the total price.
+
+---
+
+## ⭐ Features
+- Show food items  
+- Add to cart  
+- Increase/Decrease quantity  
+- Auto total price  
+- Save cart using LocalStorage  
+- Mobile responsive  
+
+---
+
+## 🛠 Technologies Used
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📂 Folder Structure
+index.html  
+style.css  
+script.js  
+assets/images/  
+assets/logo/
+
+---
+
+## ▶ How to Run This Project
+1. Download the project  
+2. Open *index.html* in your browser  
+3. Website will start automatically  
+
+---
+
+## 🖼 Logo
+(Add your logo here)
+Example:
+![Logo](./assets/logo/logo.png)
+
+---
+
+## 📝 Future Updates
+- Login page  
+- Admin panel  
+- Online payments
+
+---
+
+## 👨‍💻 Developed By
+Kannan V
